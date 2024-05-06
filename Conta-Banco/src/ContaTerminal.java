@@ -13,7 +13,6 @@ public class ContaTerminal {
         int numeroConta = scan.nextInt();
 
         Scanner scan2 = new Scanner(System.in);
-
         System.out.println("Por favor digite o nome do Cliente!");
         String nomeCliente = scan2.nextLine();
 
